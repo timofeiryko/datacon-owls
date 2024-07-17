@@ -9,6 +9,8 @@ All the things related to hackaton about aptomers and protein interaction (noteb
 3) Before uploading the notebook, please, restart it and run all the cells to make sure, that all is ok
 4) Notebooks should be well formatted: structure it with headings in Markdown and briefly explain what is going on
 
+It is recomended to make changes in separate branches and create pull requests, but to save time it is OK to push directly to this repo.
+
 ### Proposed notebook structure
 - Imports and set up
 - Get the data (read file into df, make API requests etc)
