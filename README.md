@@ -13,9 +13,12 @@
 
 - regression eda - распределение таргета и количественных величин
 - https://github.com/timofeiryko/datacon-owls/blob/main/regression_eda/regression_eda.ipynb
+
+- Catboost - Catboost classification and regression with amino acids one-hot encoding
+- https://github.com/timofeiryko/datacon-owls/blob/main/Catboost/Catboost.ipynb
   
 - Blomap - попробовали энкодеры, основанные на Blosum62 (произошел лик данных, но есть идеи почему это произошло и как это исправить)
-- https://github.com/timofeiryko/datacon-owls/blob/main/Start/Start.ipynb 
+- https://github.com/timofeiryko/datacon-owls/blob/main/Blomap/blomap.ipynb 
 
 
 
