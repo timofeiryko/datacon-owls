@@ -7,6 +7,9 @@
 # Описание директорий:
 - Start - предобработка данных, EDA, попробовали baseline модели для классификации и получили результаты, обогатили датасет
 - https://github.com/timofeiryko/datacon-owls/blob/main/Start/Start.ipynb
+
+- Baseline models - модели для классификации, регрессии и генетический алгоритм
+- https://github.com/timofeiryko/datacon-owls/blob/main/baseline_models/Baseline_models.ipynb
   
 - Blomap - попробовали энкодеры, основанные на Blosum62 (произошел лик данных, но есть идеи почему это произошло и как это исправить)
 - https://github.com/timofeiryko/datacon-owls/blob/main/Start/Start.ipynb 
